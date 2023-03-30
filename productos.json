@@ -1,0 +1,32 @@
+{
+    "productos": [
+        {
+            "codigo": "P001",
+            "nombre": "Camisa de hombre",
+            "precio": 39.99,
+            "foto": "https://www.ejemplo.com/camisa-hombre.jpg",
+            "cantidad": 10
+        },
+        {
+            "codigo": "P002",
+            "nombre": "Camisa de mujer",
+            "precio": 49.99,
+            "foto": "https://www.ejemplo.com/camisa-mujer.jpg",
+            "cantidad": 8
+        },
+        {
+            "codigo": "P003",
+            "nombre": "Pantalón de hombre",
+            "precio": 79.99,
+            "foto": "https://www.ejemplo.com/pantalon-hombre.jpg",
+            "cantidad": 5
+        },
+        {
+            "codigo": "P004",
+            "nombre": "Pantalón de mujer",
+            "precio": 89.99,
+            "foto": "https://www.ejemplo.com/pantalon-mujer.jpg",
+            "cantidad": 6
+        }
+    ]
+}
